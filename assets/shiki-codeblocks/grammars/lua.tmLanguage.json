@@ -1,6 +1,7 @@
 {
   "displayName": "Lua",
   "name": "lua",
+  "scopeName": "source.lua",
   "patterns": [
     {
       "begin": "\\b(?:(local)\\s+)?(function)\\b(?![,:])",
@@ -951,6 +952,5 @@
         }
       ]
     }
-  },
-  "scopeName": "source.lua"
+  }
 }
